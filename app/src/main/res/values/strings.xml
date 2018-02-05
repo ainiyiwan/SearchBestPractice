@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">SearchBestPractice</string>
+    <string name="start_search">开始搜索</string>
+
+    <string name="state_network_error">网络错误</string>
+    <string name="state_loading">正在加载…</string>
+    <string name="state_not_more">没有更多数据</string>
+    <string name="state_load_error">加载失败</string>
+    <string name="state_refreshing">正在刷新</string>
+
+    <string name="error_view_loading">加载中…</string>
+    <string name="error_view_loading_local_friend">获取附近的程序员中…</string>
+    <string name="copy_success">复制成功</string>
+    <string name="error_view_load_error_click_to_refresh">内容加载失败\r\n点击重新加载</string>
+    <string name="error_view_network_error_click_to_refresh">没有可用的网络</string>
+    <string name="error_view_no_data">暂无内容</string>
+    <string name="content_upload_error_hint">部分内容没有上传成功</string>
+    <string name="notification_ignore_hint">忽略</string>
+    <string name="notification_retry_hint">重试</string>
+
+    <string name="you_have_unread_messages">你有%s条未读消息</string>
+    <string name="mention_count">\@我[%s] </string>
+    <string name="letter_count">私信[%s] </string>
+    <string name="review_count">评论[%s] </string>
+    <string name="fans_count">新粉丝[%s] </string>
+    <string name="like_count">收到赞[%s] </string>
+
+    <string name="comment_hint">请输入评论</string>
+    <string name="identity_officialMember">官方人员</string>
+
 </resources>

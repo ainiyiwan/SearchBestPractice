@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="lineColor" format="reference"/>
+    <attr name="infoTextColor" format="reference"/>
+
+    <style name="App.Theme.Dialog.Alert" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="android:textColorPrimary">@color/black_alpha_240</item>
+    </style>
+
+    <declare-styleable name="IdentityView">
+        <attr name="oscColor" format="color" />
+        <attr name="oscWipeOffBorder" format="boolean" />
+    </declare-styleable>
+</resources>
